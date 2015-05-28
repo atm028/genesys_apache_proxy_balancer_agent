@@ -1,0 +1,1 @@
+java -jar GenesysApacheProxyBalancerAgent-0.0.1-SNAPSHOT.jar apache_file=000-default sc_host=W2k8r2-mv-s1 sc_port=8020 sc_user=default sc_password=password st_host=W2k8r2-mv-s2 st_name=Stat_Server_812 st_port=8120 st_tenant=sip80
